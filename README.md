@@ -6,7 +6,8 @@ The game is currently at an early stage under demo version 1.7. All innovations,
 
 ## Installation game
 
-Install | Download game - [Dowload apk game OBT](https://www.mixamo.com)
+Install | Download game link 1 - [ruStore](https://www.rustore.ru/catalog/app/com.ValeyevGames.SurvivaloftheLegends)
+Install | Download game link 2 - [Gamejolt](https://gamejolt.com/games/survivalofthelegends/901369)
 
 
 ## Credits
