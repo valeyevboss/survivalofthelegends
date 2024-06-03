@@ -4,3 +4,8 @@
 ## Installation game
 
 Install game -
+
+
+## Credits
+
+This project was made by Nikita Valeyev :D
