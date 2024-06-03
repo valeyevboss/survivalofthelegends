@@ -6,7 +6,7 @@ The game is currently at an early stage under demo version 1.7. All innovations,
 
 ## Installation game
 
-Install game -
+Install | Download game - [Dowload apk game OBT](https://www.mixamo.com)
 
 
 ## Credits
